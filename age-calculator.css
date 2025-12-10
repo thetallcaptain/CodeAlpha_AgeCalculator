@@ -19,7 +19,7 @@ body {
     max-width: 500px;
     background-color: white;
     padding: 30px;
-    border-radius: 20px;
+    border-radius: 50px;
     box-shadow: 0px 5px 30px hsla(0, 0%, 0%, 0.288);
 }
 
@@ -61,7 +61,7 @@ input, select  {
     width: 100%;
     padding: 12px 13px;
     border: 2px solid #e0e0e0;
-    border-radius: 8px;
+    border-radius: 12px;
     font-size: 0.9rem;
     transition: border-color 0.3s;
 }
@@ -76,9 +76,10 @@ button {
     padding: 15px;
     font-size: 1.1rem;
     font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: linear-gradient(135deg, #0a1752,#1111ad);
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     color: #ffffff;
     cursor: pointer;
     transition: transform 0.3s,box-shadow 0.3s;
@@ -95,9 +96,9 @@ button:active{
 .result-section {
     width: 100%;
     margin-top: 30px;
-    padding: 25px;
+    padding: 30px;
     background-color: #2828e277;
-    border-radius: 10px;
+    border-radius: 15px;
     display: none;
 }
 
