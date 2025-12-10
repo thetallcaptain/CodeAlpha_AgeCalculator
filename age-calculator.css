@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.801), #8484cc 50%);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.801), #8e8edd 50%);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 25px;
 }
